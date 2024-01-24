@@ -1,0 +1,791 @@
+@media screen and (max-width:1800px) {
+    a.nav-link {
+        font-size: 18px;
+        font-weight: 700;
+    }
+
+    .banner-heading h1 {
+        font-size: 83px;
+        margin-bottom: 29px;
+    }
+
+    .banner-heading p {
+        font-size: 20px;
+        line-height: 30px;
+        padding-inline: 13%;
+        margin-bottom: 29px;
+    }
+
+    .pBlock {
+        padding-block: 70px;
+    }
+
+    .section-heading h2 {
+        font-size: 50px;
+        margin-bottom: 25px;
+    }
+
+    .section-heading p {
+        font-size: 22px;
+        line-height: 32px;
+        margin-bottom: 25px;
+    }
+
+    .section-heading {
+        margin-bottom: 30px;
+    }
+
+    .custom-boxHeading h3 {
+        font-size: 36px;
+        line-height: 46px;
+        margin-bottom: 25px;
+    }
+
+    .custom-boxHeading p {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .service-wrapper .custom-row {
+        margin-inline: -15px;
+        gap: 30px 0px;
+    }
+
+    .service-wrapper .custom-row .pe-1 {
+        padding-right: 15px !important;
+    }
+
+    .service-wrapper .custom-row .ps-1 {
+        padding-left: 15px !important;
+    }
+
+    .service-content h3 {
+        font-size: 27px;
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+}
+
+@media screen and (max-width:1680px) {
+    a.navbar-brand img {
+        height: 50px;
+    }
+
+    a.nav-link {
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+    header ul.navbar-nav {
+        gap: 0px 40px;
+    }
+
+    .banner-heading h1 {
+        font-size: 73px;
+        margin-bottom: 25px;
+    }
+
+    .banner-heading p {
+        font-size: 18px;
+        line-height: 28px;
+        padding-inline: 15%;
+        margin-bottom: 25px;
+    }
+
+    .pBlock {
+        padding-block: 60px;
+    }
+
+    .section-heading h2 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+
+    .section-heading p {
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 20px;
+    }
+
+    .about-wrapper .custom-row {
+        margin-inline: -20px;
+    }
+
+    .about-wrapper .custom-row .ps-1 {
+        padding-right: 20px !important;
+    }
+
+    .about-wrapper .custom-row .pe-1 {
+        padding-left: 20px !important;
+    }
+
+    .custom-boxHeading h3 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 20px;
+    }
+
+    .custom-boxHeading p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .testimonialImages {
+        width: 170px;
+        height: 170px;
+        top: -90px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .testimonialImages img {
+        width: 170px;
+        height: 170px;
+    }
+
+    .testimonialBox-cover {
+        margin-inline: 12px;
+        border-radius: 20px;
+        padding-inline: 15px;
+        padding-top: 100px;
+        padding-bottom: 15px;
+    }
+
+    .testimonialContent h3 {
+        color: #000;
+        font-size: 26px;
+        margin-bottom: 20px;
+    }
+
+    .rating i {
+        font-size: 18px;
+    }
+
+    .quote span {
+        color: #885EFE;
+        font-size: 45px;
+    }
+
+    .contactForm-container {
+        border-radius: 10px;
+        padding: 40px;
+        margin-inline: -40px;
+    }
+
+    .contactInfo {
+        width: 40%;
+        padding-inline: 40px;
+    }
+
+    .contactForm {
+        width: 60%;
+        padding-inline: 40px;
+    }
+
+    .serviceIcon {
+        width: 65px;
+        height: 65px;
+        margin-bottom: 15px;
+    }
+
+    .contactInfo-cover {
+        height: 100%;
+        padding: 30px;
+        border-radius: 5px;
+    }
+
+    .contact-heading h3 {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    .contact-info ul li a {
+        font-size: 16px;
+        gap: 0px 15px;
+    }
+
+    span.contactIcon {
+        width: 20px;
+        height: 20px;
+    }
+
+    .contactInfo-cover::after {
+        width: 150px;
+        height: 150px;
+    }
+
+    footer h3 {
+        font-size: 23px;
+        line-height: 26px;
+        margin-bottom: 15px;
+    }
+
+    .reachUs-container ul {
+        gap: 20px 0px;
+        margin-bottom: 0px;
+    }
+
+    .footerNav ul,
+    .legalBox ul {
+        flex-direction: column;
+        gap: 15px 0px;
+    }
+
+    .footerLogo {
+        padding-bottom: 40px;
+        margin-bottom: 20px;
+    }
+
+    a.footerLogo-link img {
+        height: 60px;
+    }
+}
+
+@media screen and (max-width:1480px) {
+    a.nav-link {
+        font-size: 15px;
+        font-weight: 700;
+    }
+
+    header ul.navbar-nav {
+        gap: 0px 30px;
+    }
+
+    a.navbar-brand img {
+        height: 45px;
+    }
+
+    .banner-wrapper .carousel-item {
+        height: 500px;
+    }
+
+    .banner-heading h1 {
+        font-size: 60px;
+        margin-bottom: 20px;
+    }
+
+    .banner-heading p {
+        font-size: 16px;
+        line-height: 26px;
+        padding-inline: 9%;
+        margin-bottom: 15px;
+    }
+
+    .pBlock {
+        padding-block: 50px;
+    }
+
+    .section-heading h2 {
+        font-size: 34px;
+        margin-bottom: 20px;
+    }
+
+    .section-heading p {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 15px;
+    }
+
+    .serviceBox-container {
+        height: 100%;
+        padding: 15px 10px !important;
+        border-radius: 5px;
+    }
+
+    .service-content h3 {
+        font-size: 23px;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+
+    .service-content p {
+        color: #000;
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 0px;
+    }
+
+    .testimonialContainer .slick-list.draggable {
+        padding-top: 100px;
+        padding-bottom: 20px;
+    }
+
+    .testimonialImages {
+        width: 120px;
+        height: 120px;
+        top: -80px;
+    }
+
+    .testimonialImages img {
+        width: 120px;
+        height: 120px;
+    }
+
+    .testimonialBox-cover {
+        margin-inline: 12px;
+        border-radius: 20px;
+        padding-inline: 10px;
+        padding-top: 85px;
+        padding-bottom: 10px;
+    }
+
+    .custom-boxHeading h3 {
+        font-size: 26px;
+        line-height: 36px;
+        margin-bottom: 20px;
+    }
+
+    .custom-boxHeading p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .testimonialContent h3 {
+        color: #000;
+        font-size: 26px;
+        margin-bottom: 10px;
+    }
+
+    .rating i {
+        font-size: 16px;
+    }
+
+    .rating ul {
+        align-items: center;
+        gap: 0px 4px;
+        margin-bottom: 10px;
+    }
+
+    .quote {
+        margin-bottom: 10px;
+    }
+
+    .quote span {
+        color: #885EFE;
+        font-size: 38px;
+    }
+
+    .testimonialContent p {
+        color: #000;
+        font-size: 16px;
+        margin-bottom: 0px;
+        line-height: 20px;
+    }
+
+    .testimonialImages {
+        width: 120px;
+        height: 120px;
+        top: -58px;
+    }
+
+    .testimonialBox-cover {
+        margin-inline: 6px;
+        border-radius: 20px;
+        padding-inline: 10px;
+        padding-top: 76px;
+        padding-bottom: 10px;
+    }
+
+    .testimonialContainer .slick-list.draggable {
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+
+    .contactForm-container {
+        border-radius: 10px;
+        padding: 30px;
+        margin-inline: -20px;
+    }
+
+    .contactInfo {
+        width: 45%;
+        padding-inline: 20px;
+    }
+
+    .contactForm {
+        width: 55%;
+        padding-inline: 20px;
+    }
+
+    .contact-social ul {
+        gap: 0px 18px;
+        margin-bottom: 0px;
+    }
+
+    .form-group .form-control {
+        height: 40px;
+    }
+
+    .formContainer-box .custom-row {
+        margin-inline: -15px;
+    }
+
+    .contactFrom-cover .row .col-12+.col-12 .formContainer-box {
+        margin-top: 25px;
+    }
+
+    .formContainer-box .custom-row .pe-1 {
+        padding-right: 15px !important;
+    }
+
+    .formContainer-box .custom-row .ps-1 {
+        padding-left: 15px !important;
+    }
+
+    .formContainerBtn {
+        margin-top: 40px;
+    }
+
+    button.formCustom-btn {
+        font-size: 16px;
+        padding: 10px 30px;
+    }
+
+    .contactInfo-cover::after {
+        width: 120px;
+        height: 120px;
+    }
+
+    footer h3 {
+        font-size: 20px;
+        line-height: 26px;
+        margin-bottom: 15px;
+    }
+
+    .reachUs-container ul {
+        gap: 15px 0px;
+        margin-bottom: 0px;
+    }
+
+    .footerContent-box {
+        margin-inline: -15px;
+    }
+
+    .footerContent {
+        width: 33.33%;
+        padding-inline: 15px;
+    }
+
+    a.footerLogo-link img {
+        height: 50px;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    header ul.navbar-nav {
+        gap: 0px 20px;
+    }
+
+    .banner-heading h1 {
+        font-size: 50px;
+        margin-bottom: 15px;
+    }
+
+    .banner-wrapper .carousel-item {
+        height: 400px;
+    }
+
+    section.banner-wrapper .carousel-indicators button.active,
+    ul.slick-dots li.slick-active button {
+        width: 12px;
+        height: 12px;
+        background-color: #885EFE;
+    }
+
+    .section-heading h2 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .section-heading {
+        margin-bottom: 20px;
+    }
+
+    .about-wrapper .custom-row {
+        margin-inline: -12px;
+    }
+
+    .about-wrapper .custom-row .pe-1 {
+        padding-left: 12px !important;
+    }
+
+    .about-wrapper .custom-row .ps-1 {
+        padding-right: 12px !important;
+    }
+
+    .custom-boxHeading h3 {
+        font-size: 22px;
+        line-height: 32px;
+        margin-bottom: 15px;
+    }
+
+    .pBlock {
+        padding-block: 30px;
+    }
+
+    .service-wrapper .custom-row {
+        margin-inline: -12px;
+        gap: 24px 0px;
+    }
+
+    .service-wrapper .custom-row .ps-1 {
+        padding-left: 12px !important;
+    }
+
+    .service-wrapper .custom-row .pe-1 {
+        padding-right: 12px !important;
+    }
+
+    .serviceIcon {
+        width: 50px;
+        height: 50px;
+        margin-bottom: 10px;
+    }
+
+    .serviceIcon {
+        width: 50px;
+        height: 50px;
+        margin-bottom: 10px;
+    }
+
+    .service-content h3 {
+        font-size: 20px;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+
+    .service-content p {
+        color: #000;
+        font-size: 15px;
+        line-height: 25px;
+        margin-bottom: 0px;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .container {
+        max-width: 100%;
+    }
+
+    a.socialLink {
+        width: 25px;
+        height: 25px;
+        font-size: 13px;
+    }
+
+    .contact-info ul li a {
+        font-size: 14px;
+        gap: 0px 10px;
+    }
+
+    .contactInfo {
+        width: 45%;
+        padding-inline: 12px;
+    }
+
+    .contactForm {
+        width: 55%;
+        padding-inline: 12px;
+    }
+
+    .contactForm-container {
+        border-radius: 10px;
+        padding: 25px;
+        margin-inline: 0px;
+    }
+    .footerContent-box {
+        margin-inline: -12px;
+    }
+    .footerContent {
+        padding-inline: 12px;
+    }
+    .footerContent {
+        padding-inline: 12px;
+    }
+    .footerContent {
+        padding-inline: 12px;
+    }
+}
+
+@media screen and (max-width:992px) {
+    button.navbar-toggler {
+        padding: 0px;
+        color: #fff;
+        width: fit-content;
+        height: fit-content;
+    }
+
+    button.navbar-toggler:focus {
+        outline: none;
+        box-shadow: none;
+        border: 0px;
+    }
+
+    .navbar-collapse.show,
+    .navbar-collapse.collapsing {
+        position: absolute;
+        top: 65px;
+        background-color: #03071C;
+        z-index: 999;
+        width: 100%;
+        padding: 10px;
+    }
+    header ul.navbar-nav {
+        gap: 14px 0px;
+    }
+}
+@media screen and (max-width:768px){
+    .contactForm-container {
+        border-radius: 10px;
+        padding: 14px;
+        margin-inline: 0px;
+    }
+    .about-images img {
+        height: 300px;
+    }
+    .about-images{
+        display: flex;
+        justify-content: center;
+    }
+    .custom-boxHeading {
+        margin-top: 20px;
+        align-items: center;
+        text-align: center;
+    }
+    .custom-boxHeading h3 {
+        font-size: 20px;
+        line-height: 27px;
+        margin-bottom: 15px;
+    }
+    .contact-heading h3 {
+        font-size: 21px;
+        margin-bottom: 10px;
+    }
+    .contact-heading p {
+        color: #fff;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: normal;
+        margin-bottom: 0px;
+    }
+    .contactInfo-cover {
+        height: 100%;
+        padding: 20px;
+        border-radius: 5px;
+    }
+    .formContainer-box .row .col-12 + .col-12 .form-group {
+        margin-top: 25px;
+    }
+    .reachUs-container ul li a {
+        display: inline-flex;
+        align-items: center;
+        gap: 0px 10px;
+        color: #FFF;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: normal;
+    }
+    .reachUs-container ul {
+        gap: 10px 0px;
+        margin-bottom: 0px;
+    }
+    .footerNav ul, .legalBox ul {
+        flex-direction: column;
+        gap: 10px 0px;
+    }
+    a.footerLink, .legalLink {
+        color: #FFF;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: capitalize;
+    }
+}
+@media screen and (max-width:676px){
+    .banner-heading h1 {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+    .banner-heading p {
+        font-size: 16px;
+        line-height: 26px;
+        padding-inline: 0px;
+        margin-bottom: 15px;
+    }
+    .banner-wrapper .carousel-item {
+        height: 350px;
+    }
+    .section-heading h2 {
+        font-size: 27px;
+        margin-bottom: 10px;
+    }
+    .contactInfo {
+        width: 100%;
+        padding-inline: 0px;
+        margin-bottom: 20px;
+    }
+    .contactInfo-cover {
+        height: 100%;
+        padding: 15px;
+        border-radius: 5px;
+        gap: 23px 0px;
+    }
+    .contactForm {
+        width: 100%;
+        padding-inline: 0px;
+    }
+    .formContainerBtn {
+        margin-top: 25px;
+        justify-content: center;
+    }
+    .footerContent {
+        width: 50%;
+        padding-inline: 15px;
+    }
+    .custom-boxHeading h3 {
+        font-size: 22px;
+        line-height: 27px;
+        margin-bottom: 15px;
+    }
+    .portfolio-cover {
+        display: flex;
+        gap: 10px 0px;
+        flex-wrap: wrap;
+    }
+    .porfolio-box {
+        width: 100%;
+        flex: 0 0 auto;
+    }
+}
+@media screen and (max-width:575px){
+    .banner-heading h1 {
+        font-size: 30px;
+        margin-bottom: 12px;
+    }
+    .banner-wrapper .carousel-item {
+        height: 300px;
+    }
+    .footerContent {
+        width: 100%;
+        padding-inline: 15px;
+    }
+    .footerContent-box {
+        margin-inline: -12px;
+        gap: 20px 0px;
+    }
+}
+@media screen and (max-width:475px){
+    .banner-heading h1 {
+        font-size: 25px;
+        margin-bottom: 12px;
+    }
+    .section-heading h2 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .custom-boxHeading h3 {
+        font-size: 19px;
+        line-height: 24px;
+        margin-bottom: 13px;
+    }
+}
